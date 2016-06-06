@@ -68,6 +68,7 @@ public class FirstFragment extends Fragment implements OnItemClickListener {
 		// TODO Auto-generated method stub
 		urlPath = "http://xsc.nuc.edu.cn/xwzx/zytz.htm";
 		//urlPath = "http://jkx.zknu.edu.cn/s/43/t/104/p/12/list.htm";
+		
 		urlNextPath = "http://xsc.nuc.edu.cn/xwzx/zytz";
 		urlContentPath = "http://xsc.nuc.edu.cn";
 		type = "最要通知";
